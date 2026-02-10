@@ -1,0 +1,1 @@
+A limit describes the value that a function approaches as the input approaches some point.
