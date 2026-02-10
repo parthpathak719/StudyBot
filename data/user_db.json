@@ -1,0 +1,79 @@
+{
+  "cards": [
+    {
+      "id": "student::Cell Biology :: Cell Structure",
+      "user": "student",
+      "topic": "Cell Biology :: Cell Structure",
+      "interval": 6,
+      "repetitions": 2,
+      "efactor": 2.5,
+      "due_date": "2025-12-01",
+      "created_at": "2025-10-25T04:26:46.391613"
+    },
+    {
+      "id": "student::OOP :: Inheritance",
+      "user": "student",
+      "topic": "OOP :: Inheritance",
+      "interval": 1,
+      "repetitions": 1,
+      "efactor": 1.96,
+      "due_date": "2025-11-26",
+      "created_at": "2025-10-25T04:28:22.576970"
+    },
+    {
+      "id": "student::Cell Biology :: Mitochondria & ATP",
+      "user": "student",
+      "topic": "Cell Biology :: Mitochondria & ATP",
+      "interval": 1,
+      "repetitions": 1,
+      "efactor": 2.5,
+      "due_date": "2025-11-26",
+      "created_at": "2025-11-25T14:11:30.074527"
+    }
+  ],
+  "attempts": [
+    {
+      "user": "student",
+      "topic": "Cell Biology :: Cell Structure",
+      "quality": 4,
+      "timestamp": "2025-10-25T04:26:46.395702",
+      "next_due": "2025-10-26"
+    },
+    {
+      "user": "student",
+      "topic": "OOP :: Inheritance",
+      "quality": 1,
+      "timestamp": "2025-10-25T04:28:22.579720",
+      "next_due": "2025-10-26"
+    },
+    {
+      "user": "student",
+      "topic": "Cell Biology :: Mitochondria & ATP",
+      "quality": 4,
+      "timestamp": "2025-11-25T14:11:30.079442",
+      "next_due": "2025-11-26"
+    },
+    {
+      "user": "student",
+      "topic": "Cell Biology :: Cell Structure",
+      "quality": 4,
+      "timestamp": "2025-11-25T14:11:58.408016",
+      "next_due": "2025-12-01"
+    },
+    {
+      "user": "student",
+      "topic": "OOP :: Inheritance",
+      "quality": 4,
+      "timestamp": "2025-11-25T14:11:58.410575",
+      "next_due": "2025-11-26"
+    }
+  ],
+  "users": {
+    "student": {
+      "enable_summary": true,
+      "enable_qg": true,
+      "summary_depth": 2,
+      "enable_answer_check": true
+    }
+  }
+}

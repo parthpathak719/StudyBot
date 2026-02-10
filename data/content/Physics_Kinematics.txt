@@ -1,0 +1,1 @@
+Kinematics deals with the motion of objects without considering the causes of motion. It includes displacement, velocity, and acceleration.

@@ -1,0 +1,90 @@
+{
+  "Biology": {
+    "Cell Biology": [
+      "Cell Structure",
+      "Mitochondria & ATP",
+      "Plasma Membrane",
+      "Lysosomes",
+      "Endoplasmic Reticulum"
+    ],
+    "Genetics": [
+      "Mendelian Genetics",
+      "DNA Replication",
+      "RNA Transcription",
+      "Protein Synthesis"
+    ],
+    "Human Physiology": [
+      "Digestive System",
+      "Respiratory System",
+      "Circulatory System"
+    ]
+  },
+  "Physics": {
+    "Mechanics": [
+      "Kinematics",
+      "Laws of Motion",
+      "Work and Energy",
+      "Rotational Motion"
+    ],
+    "Optics": [
+      "Reflection",
+      "Refraction",
+      "Lenses and Mirrors"
+    ]
+  },
+  "Chemistry": {
+    "Physical Chemistry": [
+      "Mole Concept",
+      "Atomic Structure",
+      "Chemical Kinetics"
+    ],
+    "Organic Chemistry": [
+      "Hydrocarbons",
+      "Alcohols",
+      "Amines"
+    ]
+  },
+  "Mathematics": {
+    "Calculus": [
+      "Limits",
+      "Derivatives",
+      "Integrals",
+      "Differential Equations"
+    ],
+    "Algebra": [
+      "Quadratic Equations",
+      "Matrices",
+      "Determinants",
+      "Complex Numbers"
+    ]
+  },
+  "Java": {
+    "OOP": [
+      "Classes & Objects",
+      "Inheritance",
+      "Polymorphism",
+      "Encapsulation"
+    ],
+    "Collections": [
+      "List",
+      "Map",
+      "Set",
+      "Streams"
+    ],
+    "Exceptions": [
+      "Try-Catch",
+      "Custom Exceptions"
+    ]
+  },
+  "History": {
+    "World Wars": [
+      "World War I",
+      "World War II",
+      "Cold War"
+    ],
+    "Indian History": [
+      "Mughal Empire",
+      "Independence Movement"
+    ]
+  }
+}
